@@ -68,9 +68,10 @@
 					<p> Important classes/interfaces: </p>
 
 					<ol>
-						<li>AnnotatedType: represents Java class/interface (getConstructors(), getAnnotations() ...)</li>
-						<li>InjectionPoint: the place of injecting (field, parameter etc.)</li>			
-						<li>Member: interface representing method, field or constructor</li>					
+						<li>AnnotatedType: represents Java class/interface (getConstructors(), getAnnotations() ...)<li>
+						<li>Member: interface representing method, field or constructor<li>
+</ol>
+					
 				</section>
 
 
@@ -87,12 +88,6 @@
 				</section>
 
 				<section>
-					<h2>Where I am working now</h2>
-					<p> CDI-TCK + Weld and I love it there!<p>
-
-				</section>
-				
-				<section>
 					<h2>The work I had to do during the contest</h2>
 <ol>
 						<li>Study the Weld/CDI documentation.</li>
@@ -103,6 +98,12 @@
 		 
 				</section>
 
+<section>
+					<h2>Where I am working now</h2>
+					<p> CDI-TCK + Weld and I love it there!<p>
+
+				</section>
+
 				<!-- Example of nested vertical slides -->
 
 
@@ -110,13 +111,13 @@
 				 <h1> Feedback</h1>
 <br/>
 				<ul>
-						<li>Good opportunity and motivation to contribute.</li>
-						<li>Red Hat taking it seriously.</li>
+						<li>+ Good opportunity and motivation to contribute.</li>
+						<li>+ Red Hat taking it seriously.</li>
 				
 <br/>
 
-						<li>Solution feedback too late so I had to go through internship tests.</li>
-						<li>Interwievers didn't know about my success in the contest.</li>
+						<li>- Solution feedback too late so I had to go through internship tests.</li>
+						<li>- Interwievers didn't know about my success in the contest.</li>
 				</ul>
 
 
